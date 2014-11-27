@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mapv2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="api_debug_key">AIzaSyCx2vdfbOSpoYT01upfrfCU0AYAjgTFx1M</string>
+    <string name="api_release_key">Hello world!</string>
+
+</resources>
